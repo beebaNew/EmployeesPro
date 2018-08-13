@@ -1,7 +1,7 @@
 
-#To create docker image 
+# To create docker image 
 
-###Prerequisites
+### Prerequisites
  Docker must be installed and must be runnning properly
 
 ### Step 1
@@ -35,7 +35,7 @@ docker images
 
 
 
-#Deploy and Start frontEnd
+# Deploy and Start frontEnd
 
 ### Step 1
 
