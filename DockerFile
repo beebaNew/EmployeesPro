@@ -1,0 +1,5 @@
+from alirizasaral/timetracker:1
+
+COPY src ./src
+COPY target ./target
+COPY ./EmployeeApp.jar ./ 
